@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "15521704132",
+    "firebase_url": "https://nexzensystem-1b815.firebaseio.com",
+    "project_id": "nexzensystem-1b815",
+    "storage_bucket": "nexzensystem-1b815.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15521704132:android:ef4350fbfdaa3dfa",
+        "android_client_info": {
+          "package_name": "com.nexzen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15521704132-019sp46b22jnqackflhr9dv23d6loqht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmMYBxCWxy8qHV-gN2u2EMSoLJNv0fd4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15521704132-019sp46b22jnqackflhr9dv23d6loqht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

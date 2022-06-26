@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "887217280224",
+    "project_id": "nexzen-system",
+    "storage_bucket": "nexzen-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887217280224:android:fd13ec91b3bcd713d16c85",
+        "android_client_info": {
+          "package_name": "com.nexzenstudent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887217280224-3sme6i04qomhs7iru4k229od709p1p3r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nexzenstudent",
+            "certificate_hash": "c4556b3f989c5d3cedbc8b7e5d0f8aec712c6ad1"
+          }
+        },
+        {
+          "client_id": "887217280224-9mn0nhmn77e9htg1vst5dtsk82u8ohl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn7745WipWicLQmuRs3VvbsEEuZ2kVwmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887217280224-9mn0nhmn77e9htg1vst5dtsk82u8ohl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

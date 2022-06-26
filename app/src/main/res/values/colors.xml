@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4ABDAC</color>
+    <color name="colorPrimaryDark">#5BB899</color>
+    <color name="colorAccent">#5BB899</color>
+    <color name="studenBtn">#5EBBF5</color>
+    <color name="teacherBtn">#468EBC</color>
+    <color name="color_1">#5BB899</color>
+    <color name="color_2">#5BB899</color>
+    <color name="color_3">#5BB899</color>
+    <color name="color_4">#5BB899</color>
+    <color name="color_5">#5BB899</color>
+    <color name="color_6">#5BB899</color>
+    <color name="color_7">#5BB899</color>
+    <color name="color_8">#5BB899</color>
+    <color name="color_9">#5BB899</color>
+
+    <color name="color_11">#5BB899</color>
+    <color name="color_21">#5BB899</color>
+    <color name="color_31">#5BB899</color>
+    <color name="color_41">#5BB899</color>
+    <color name="color_51">#5BB899</color>
+    <color name="color_61">#5BB899</color>
+    <color name="color_71">#5BB899</color>
+    <color name="color_81">#5BB899</color>
+    <color name="color_91">#5BB899</color>
+    <color name="white1">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="cyan">#4ABDAC</color>
+    <color name="yelloOrange">#F9BE02</color>
+
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1033108688409",
+    "firebase_url": "https://nexstudent.firebaseio.com",
+    "project_id": "nexstudent",
+    "storage_bucket": "nexstudent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033108688409:android:3a018dc611b732d361a488",
+        "android_client_info": {
+          "package_name": "com.nexzenstudent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033108688409-bq0b5jbrsclffakhs2f57i71rm4ej7n7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBclLm2NG-eJAKjF3ovpmALFuP9qI_k_28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033108688409-bq0b5jbrsclffakhs2f57i71rm4ej7n7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
